@@ -1,4 +1,4 @@
-//Master Branch
+//Master Branch :
 To simplify the instructions for installing and running the Django project, you can follow these steps:
 
 Step1: Clone the repository:
